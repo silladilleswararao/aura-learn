@@ -1,0 +1,6 @@
+{
+  "name": "Aura Learn",
+  "description": "Learn. Play. Master. An AI-powered student learning and document knowledge assistant that transforms your study material into grounded answers, study guides, exam prep, and an interactive quiz arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
